@@ -13,7 +13,7 @@ The analysis includes:
 
 ## 📂 Dataset
 
-**Source:** [Kaggle - Framingham Heart Study Dataset](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data)
+**Source:** [Kaggle - Framingham Heart Study Dataset]
 
 * **Rows:** \~4,240
 * **Columns:** 16 (15 predictors + target)
@@ -104,6 +104,3 @@ Metrics used:
 *Data Analyst & MSc Student in Biostatistics (LABEF/UAC, Benin)*
 
 ✨ *This project highlights how logistic regression can be applied in health research for disease risk prediction.*
-
-
-Would you like me to also include a **"Results & Key Insights"** section with formatted plots and metrics directly summarized from your notebook, so the README stands on its own even without running the notebook?
